@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "name": "Daffy Duck",
+    "imageAddress": "./images/daffyDuck.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 2,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 3,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 4,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 5,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 6,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 7,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 8,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 9,
+    "name": "Jw",
+    "imageAddress": ""
+  },
+  {
+    "id": 10,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 11,
+    "name": "",
+    "imageAddress": ""
+  },
+  {
+    "id": 12,
+    "name": "",
+    "imageAddress": ""
+  }
+]
