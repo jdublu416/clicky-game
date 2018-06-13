@@ -2,12 +2,15 @@
   {
     "id": 0,
     "name": "Daffy Duck",
-    "imageAddress": "./images/daffyDuck.jpeg"
+    "imageAddress": "./images/daffyDuck.jpeg",
+    "clicked": false
   },
   {
     "id": 1,
-    "name": "",
-    "imageAddress": ""
+    "name": "Porky Pig",
+    "imageAddress": "./images/porkyPig.jpeg",
+    "clicked": false
+
   },
   {
     "id": 2,
