@@ -1,3 +1,17 @@
+
+# Clicky Game
+This application was an assignment for University of Richmond coding bootcamp to learn how to use a popular JavaScript library for building user interfaces, React. The game allows for many changes in game state and learning how to build a React app from scratch.
+# Gameplay
+The player is greeted with this screen:
+![onLoad rendering](https://raw.githubusercontent.com/jdublu416/clicky-game/master/public/images/clickygame1.png)
+
+The player begins by clicking an image and as soon as he does, the pictures scramble their order. The user then can click again and again, each time clicking on a different picture until he makes a mistake (or all 12 pictures have been clicked)
+![12pictures](https://raw.githubusercontent.com/jdublu416/clicky-game/master/public/images/clickygame2.png);
+
+You can play this game [here](https://jdublu416.github.io/clicky-game/)
+
+###Below is the readME for the React library:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
