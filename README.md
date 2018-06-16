@@ -10,7 +10,7 @@ The player begins by clicking an image and as soon as he does, the pictures scra
 
 You can play this game [here](https://jdublu416.github.io/clicky-game/)
 
-###Below is the readME for the React library:
+### Below is the readME for the React library:
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
