@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "name": "Daffy Duck",
+    "imageAddress": "./images/daffyDuck.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 1,
+    "name": "Porky Pig",
+    "imageAddress": "./images/porkyPig.jpeg",
+    "clicked": "false",
+    "shake": "false"
+
+  },
+  {
+    "id": 2,
+    "name": "Beaky",
+    "imageAddress": "./images/beaky.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "imageAddress": "./images/charlie.png",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 4,
+    "name": "Dolly",
+    "imageAddress": "./images/dolly.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 5,
+    "name": "Elmer",
+    "imageAddress": "./images/elmer.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 6,
+    "name": "FogHorn",
+    "imageAddress": "./images/foghorn.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 7,
+    "name": "Junior",
+    "imageAddress": "./images/junior.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 8,
+    "name": "Pepe Le Pew",
+    "imageAddress": "./images/porkyPig.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 9,
+    "name": "Tasmanian Devil",
+    "imageAddress": "./images/tasmanian.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 10,
+    "name": "Tweety",
+    "imageAddress": "./images/tweety.png",
+    "clicked": "false",
+    "shake": "false"
+  },
+  {
+    "id": 11,
+    "name": "Yosemite Sam",
+    "imageAddress": "./images/yosemite.jpeg",
+    "clicked": "false",
+    "shake": "false"
+  }
+]

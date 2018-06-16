@@ -1,3 +1,17 @@
-#header{
+header{
     grid-area: header;
+  
 }
+
+.header{
+    background-color: #2c323c;
+    background-image: url(https://ak8.picdn.net/shutterstock/videos/1290388/thumb/1.jpg);
+    text-align: center;
+    color: antiquewhite;
+    height:400px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    padding: 180px 20px;
+}
+
