@@ -14,10 +14,10 @@ class App extends Component {
   };
 
   handleClickOfImages = id => {
-    const images = this.state.images.indexOf(
+    const images = this.state.images.filter(
       image => (this.image.id = { clicked: true })
     );
-    this.setState({ images });
+    this.setState({ images});
   };
   handleGamePlay = id => {
     if (this.clicked) {
