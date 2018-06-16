@@ -13,8 +13,8 @@ const NavBar = props => (
                         <h2>Click any image to begin!</h2>
                     </li>
                     <li className="list-item">
-                            <h2>Current Score : 0<br/>
-                            High Score:    0
+                            <h2>Score : 0<br/>
+                             Top Score: 0
                             </h2>
                     </li>
                 </ul>
