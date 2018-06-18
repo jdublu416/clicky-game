@@ -19,13 +19,10 @@ class App extends Component {
   handleClickOfImages = id => {
     const images = this.state.images.filter(image =>  image.id === id);
     this.setState({ images });
+    console.log ({images});
     // this.setState({topScore})
-    this.handleGamePlay(this.id);
-  };
- 
-  handleGamePlay = id => {
-    if (!this.clicked) {
-      this.clicked = true;
+    if (this.clicked==="false") {
+      this.clicked = "true";
       this.setState({ count: this.state.count + 1 });
     } else {
       if (this.state.count > this.state.topScore) {
@@ -34,11 +31,8 @@ class App extends Component {
       } else {
         this.setState({ count: 0 });
       };
-    // checkForEndGame => {
-    //conditional statement that checks the clicked status when user clicks an image and if it is true then shake
-    //changes to true, alert to user game is over.reset count to zero and check for high score.
-    //}
-  }
+  };
+ 
 }
   //   handleGameOver = clicked => {
   //     const gameOver = this.state.images.filter(image => image.clicked===true);
