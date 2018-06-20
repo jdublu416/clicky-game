@@ -59,7 +59,7 @@
   {
     "id": 8,
     "name": "Pepe Le Pew",
-    "imageAddress": "./images/porkyPig.jpeg",
+    "imageAddress": "./images/pepe.png",
     "clicked": "false",
     "shake": "false"
   },

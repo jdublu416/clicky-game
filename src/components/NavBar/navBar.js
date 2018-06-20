@@ -10,11 +10,11 @@ const NavBar = props => (
                         <h1>Clicky Game</h1>
                     </li>
                     <li className="list-item">
-                        <h2>Click any image to begin!</h2>
+                        <h2>{props.gameMessage}</h2>
                     </li>
                     <li className="list-item">
-                            <h2>Score : 0<br/>
-                             Top Score: 0
+                            <h2>Current Score : {props.currentScore}<br/>
+                             Top Score: {props.topScore}
                             </h2>
                     </li>
                 </ul>
